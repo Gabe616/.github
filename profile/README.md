@@ -4,6 +4,6 @@
 
 <div align="center">
     <a href="https://github.com/nexpid">
-        <img src="../assets/nuhuh.gif" alt="nuh uh gif" />
+        <img src="https://raw.githubusercontent.com/Gabe616/.github/main/assets/nuhuh.gif" alt="nuh uh gif" />
     </a>
 </div>
